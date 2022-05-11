@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+   background-color: blue;
+    margin: 50px;
+}
+.line{
+    height: 6px;
+    background-color: #800;
+    width: 70px;
+    margin: 8px auto;
+}
+img {
+    margin: 30px;
+}
